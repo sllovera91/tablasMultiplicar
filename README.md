@@ -1,5 +1,6 @@
 # Notas : 
 Aplicacion en consola de Node.JS que podemos utilizar para poder obtener en consola e imprimir resultados de las tablas.
+Utiliza Yargs y Colors.
 
 ```
   Opciones:
